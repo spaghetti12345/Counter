@@ -1,0 +1,40 @@
+body {
+    background: #272727;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(227, 227, 227);
+    margin-top: 200px;
+}
+button {
+    width: 200px;
+    border: solid rgb(227, 227, 227) 2px;
+    /*top-left, top-right, bottom-right, bottom-left*/
+    margin: auto;
+    background: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    color: rgb(227, 227, 227);
+    margin: 1px;
+}
+#lower{
+    border-radius: 50px 0px 0px 50px;
+}
+#add{
+    border-radius: 0px 50px 50px 0px;
+}
+#count {
+    font-size: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 50%;
+    text-align: center;
+
+}
+.box {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
